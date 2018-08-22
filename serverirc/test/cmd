@@ -1,0 +1,10 @@
+NICK foo
+USER * * * *
+JOIN #ok,#lol,&ff
+NAMES #lol
+JOIN #ok
+PART #lol
+PART #lol
+PART lol
+NAMES #lol
+QUIT
